@@ -246,5 +246,5 @@
     "game":"minecraft",
     "name":"MCO on Fabric",
     "summary":"Recommended mods to connect to MinecraftOnline (1.12.2) with a recent version client. This allows amongst other things for better performance than 1.12.2 OptiFine.",
-    "versionId":"1.0.0+1.21.1"
+    "versionId":"1.0.0+essentials-1.21.1"
 }
